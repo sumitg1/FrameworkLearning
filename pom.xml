@@ -5,7 +5,7 @@
 	<artifactId>FrameworkLearning</artifactId>
 	<version>0.0.1</version>
 	<name>Framework</name>
-
+	<packaging>jar</packaging>
 
 	<dependencies>
 		<!-- http://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
@@ -23,5 +23,6 @@
 		</dependency>
 
 	</dependencies>
+
 
 </project>
