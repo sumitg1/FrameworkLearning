@@ -5,9 +5,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class WebDriverConfigure {
 	
-	public WebDriver getDriver(){
-		WebDriver driver=new FirefoxDriver();
-		return driver;
-	}
+	public static WebDriver driver=new FirefoxDriver();
+	
+	
 
 }
